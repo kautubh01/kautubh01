@@ -23,7 +23,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kautubh01&show_icons=true&locale=en" alt="kautubh01" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kautubh01&" alt="kautubh01" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kautubh01" alt="kautubh01" /></p>
 
 Support 🙏
 Are you using the tool and happy with it to create your Git
